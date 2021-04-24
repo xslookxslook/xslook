@@ -18,8 +18,11 @@
 
 
 下载：
-星速浏览器PC版：V1.1.1  上线时间：2021年4月20日   下载地址：https://dl.shangqiuzhijia.com/xingsu/O52FEG/pc/xingsuUpdate.exe 软件大小：79 MB 
+星速浏览器PC版：V1.1.1  上线时间：2021年4月20日   下载地址：https://dl.shangqiuzhijia.com/xingsu/O52FEG/pc/xingsuUpdate.exe 
+软件大小：79 MB 
 
-星速浏览器安卓手机版：V1.1.1 上线时间：2021年4月20日 下载地址：https://dl.shangqiuzhijia.com/xingsu/O52FEG/android/xingsu.apk 软件大小：79 MB 
+星速浏览器安卓手机版：V1.1.1 上线时间：2021年4月20日 下载地址：https://dl.shangqiuzhijia.com/xingsu/O52FEG/android/xingsu.apk 
 
-星速浏览器iOS版：V1.1.1 上线时间：2021年4月20日 下载地址：https://h5.csd01.com/illustration/?agentId=O52FEG 软件大小：79 MB 
+
+星速浏览器iOS版：V1.1.1 上线时间：2021年4月20日 下载地址：https://h5.csd01.com/illustration/?agentId=O52FEG 
+
